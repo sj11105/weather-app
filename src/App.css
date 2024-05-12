@@ -1,0 +1,26 @@
+.weathercard{
+ margin : 50px;
+margin-left: 210px;
+}
+.input{
+margin: 10px;
+margin-left: 50px;
+text-align: center;
+justify-content: center;
+}
+.btnw{
+  margin: 10px;
+  margin-left: 110px;
+}
+.center{
+  margin: 8px;
+  align-items: center;
+  text-align: center;
+
+}
+.info{
+  text-align: center;
+}
+body{
+  background-image: url();
+}
